@@ -1,0 +1,39 @@
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP_Studio.Form1.resources
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP_Studio.Properties.Resources.resources
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\bin\Debug\MSSCMP Studio.exe.config
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\bin\Debug\MSSCMP Studio.exe
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\bin\Debug\MSSCMP Studio.pdb
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.Fody.CopyLocal.cache
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.CopyComplete
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.exe
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP Studio.pdb
+C:\Users\phoen\source\repos\##MSSCMP Studio\MSSCMP Studio\obj\Debug\MSSCMP_Studio.Forms.ProgramInfo.resources
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.AssemblyReference.cache
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.exe
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.pdb
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP_Studio.Form1.resources
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP_Studio.Forms.ProgramInfo.resources
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP_Studio.Properties.Resources.resources
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.GenerateResource.cache
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.CoreCompileInputs.cache
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\MSSCMP Studio.exe.config
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\MSSCMP Studio.exe
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\MSSCMP Studio.pdb
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\MetroFramework.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Buffers.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Memory.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Buffers.xml
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Memory.xml
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rishan Sardana\Desktop\All New Projects And Source Code\MSSCMP-Studio-main\MSSCMP Studio\obj\Debug\MSSCMP Studio.csproj.CopyComplete
